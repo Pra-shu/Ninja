@@ -1,9 +1,10 @@
 # Download the 'zoo:blender/blender_90M/model'
 
-link -> 
-(http://parl.ai/downloads/_models/blender/BST0B.tgz)
+link -> http://parl.ai/downloads/_models/blender/BST0B.tgz
 
-## Installation
+## Path to Place
+
+  :\Anaconda\envs\parl_ai\lib\site-packages\data\models\blender\blender_90M\BST0B.tgz
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
