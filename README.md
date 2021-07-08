@@ -1,4 +1,4 @@
-# Foobar
+# Download the 'zoo:blender/blender_90M/model'
 
 Foobar is a Python library for dealing with word pluralization.
 
